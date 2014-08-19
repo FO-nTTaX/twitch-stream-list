@@ -1,4 +1,4 @@
-twitch-stream-list
+Twitch-Stream-List
 ==================
 
 This is an easy example of how to put in a stream list on a homepage.
@@ -10,10 +10,10 @@ The javascript part relies on jQuery, so be sure to include it.
 
 I do not guarantee that this will work everywhere and forever, but it worked for me and i hope it will be helpful for someone.
 
-example
+Example
 =======
 
-to use this script, just put this at the place of your homepage where you want it:
+To use this script, just put this at the place of your homepage where you want it:
 
 ```html
 <div class="fotwitchstreams">
