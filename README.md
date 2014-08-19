@@ -15,12 +15,12 @@ example
 
 to use this script, just put this at the place of your homepage where you want it:
 
-<div class="fotwitchstreams">
-  <div class="fotwitchstream">
-    <input type="hidden" class="fotwitchstreamvalue" value="{{twitch name}}" />
-    <span class="fotwitchstreamname">{{display name}}</span>
-    <span style="float:right;" class="fotwitchstreamlive"></span>
-  </div>
-</div>
+&lt;div class="fotwitchstreams"&gt;
+  &lt;div class="fotwitchstream"&gt;
+    &lt;input type="hidden" class="fotwitchstreamvalue" value="{{twitch name}}" /&gt;
+    &lt;span class="fotwitchstreamname"&gt;{{display name}}&lt;/span&gt;
+    &lt;span style="float:right;" class="fotwitchstreamlive"&gt;&lt;/span&gt;
+  &gt;&lt;/div>
+&lt;/div&gt;
 
 Repeat the part with the class "fotwitchstream" as often as you need it and replace "{{twitch name}}" with the part of the url after "twitch.tv/" and "{{display name}}" with whatever you want to have displayed as streamname.
