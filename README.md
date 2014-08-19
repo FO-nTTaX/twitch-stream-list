@@ -20,7 +20,7 @@ to use this script, just put this at the place of your homepage where you want i
     &lt;input type="hidden" class="fotwitchstreamvalue" value="{{twitch name}}" /&gt;
     &lt;span class="fotwitchstreamname"&gt;{{display name}}&lt;/span&gt;
     &lt;span style="float:right;" class="fotwitchstreamlive"&gt;&lt;/span&gt;
-  &gt;&lt;/div>
+  &lt;&lt;/div&gt;
 &lt;/div&gt;
 
 Repeat the part with the class "fotwitchstream" as often as you need it and replace "{{twitch name}}" with the part of the url after "twitch.tv/" and "{{display name}}" with whatever you want to have displayed as streamname.
