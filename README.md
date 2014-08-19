@@ -25,4 +25,4 @@ to use this script, just put this at the place of your homepage where you want i
 </div>
 ```
 
-Repeat the part with the class "fotwitchstream" as often as you need it and replace "{{twitch name}}" with the part of the url after "twitch.tv/" and "{{display name}}" with whatever you want to have displayed as streamname.
+Repeat the part with the class ```fotwitchstream``` as often as you need it and replace ```{{twitch name}}``` with the part of the url after ```twitch.tv/``` and ```{{display name}}``` with whatever you want to have displayed as streamname.
