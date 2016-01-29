@@ -1,5 +1,5 @@
 /*
- * copyright 2014 - FO-nTTaX
+ * copyright 2014-2016 - FO-nTTaX
  * see the license file for licensing information
  */
 
